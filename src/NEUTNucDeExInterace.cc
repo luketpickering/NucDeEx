@@ -9,10 +9,10 @@
 
 #include <TVector3.h>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
-#include "NucDeExEventInfo.hh"
-#include "NucDeExDeexcitation.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
+#include "include/NucDeExEventInfo.hh"
+#include "include/NucDeExDeexcitation.hh"
 
 NucDeExDeexcitation* nucdeex;
 static bool nucdeex_initialized=false;

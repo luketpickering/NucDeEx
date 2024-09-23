@@ -2,7 +2,7 @@
 #include <string>
 #include <cstdlib>
 
-#include "NucDeExUtils.hh"
+#include "include/NucDeExUtils.hh"
 
 namespace NucDeEx{
   namespace Utils{

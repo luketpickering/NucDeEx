@@ -8,9 +8,9 @@
 #include <cstdlib>
 #include <algorithm>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExNucleus.hh"
-#include "ReadTALYS.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExNucleus.hh"
+#include "include/ReadTALYS.hh"
 
 ///////////////////////////
 ReadTALYS::ReadTALYS(const char* filename, NucDeExNucleusTable* nuc)

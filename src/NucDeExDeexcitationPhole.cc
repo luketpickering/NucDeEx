@@ -9,9 +9,9 @@
 #include <algorithm>
 #include <vector>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
-#include "NucDeExDeexcitationPhole.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
+#include "include/NucDeExDeexcitationPhole.hh"
 
 
 ///////////////////////////

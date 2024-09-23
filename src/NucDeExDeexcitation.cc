@@ -9,8 +9,8 @@
 #include <algorithm>
 #include <vector>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExDeexcitation.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExDeexcitation.hh"
 
 ///////////////////////////
 NucDeExDeexcitation::NucDeExDeexcitation():ldmodel(2),parity_optmodall(1), version_phole(2)

@@ -3,8 +3,8 @@
 #include "globals.hh"
 
 #include "G4NucDeExInterfaceMessenger.hh"
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
 #include "G4SystemOfUnits.hh"
 #include <sstream>
 

@@ -11,9 +11,9 @@
 
 #include <TKey.h>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
-#include "NucDeExDeexcitationTALYS.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
+#include "include/NucDeExDeexcitationTALYS.hh"
 
 ///////////////////////////
 NucDeExDeexcitationTALYS::NucDeExDeexcitationTALYS(): ldmodel(2), parity_optmodall(1)

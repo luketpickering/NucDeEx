@@ -5,7 +5,7 @@
 #include <string.h>
 #include <cstdlib>
 
-#include "NucDeExNucleus.hh"
+#include "include/NucDeExNucleus.hh"
 
 ///////////////
 void NucDeExNucleus::Init(const bool init_flag)

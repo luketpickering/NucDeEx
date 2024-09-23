@@ -9,7 +9,7 @@
 #include <algorithm>
 #include <vector>
 
-#include "NucDeExEventInfo.hh"
+#include "include/NucDeExEventInfo.hh"
 
 /////////////////////////////////////////////
 NucDeExEventInfo::NucDeExEventInfo(): EventID(0), fStatus(1), fShell(0),

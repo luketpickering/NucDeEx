@@ -1,5 +1,5 @@
 #include <iostream>
-#include "NucDeExRandom.hh"
+#include "include/NucDeExRandom.hh"
 
 namespace NucDeEx{
   namespace Random{

@@ -4,8 +4,8 @@
 #include <string>
 #include <iomanip> 
 
-#include "NucDeExConsts.hh"
-#include "NucDeExNucleusTable.hh"
+#include "include/NucDeExConsts.hh"
+#include "include/NucDeExNucleusTable.hh"
 
 int main(int argc, char* argv[]){
   if(argc<=2){

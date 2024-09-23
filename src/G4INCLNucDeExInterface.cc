@@ -5,8 +5,8 @@
 #include "G4INCLParticle.hh"
 #include "G4INCLGlobals.hh"
 #include "G4INCLParticleSpecies.hh"
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
 
 G4INCLNucDeExInterface::G4INCLNucDeExInterface(G4INCL::Config *config) :
   IDeExcitation(config),

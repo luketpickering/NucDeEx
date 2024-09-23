@@ -16,10 +16,10 @@
 #include <TPaveText.h>
 #include <THStack.h>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
-#include "NucDeExDeexcitation.hh"
-#include "NucDeExEventInfo.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
+#include "include/NucDeExDeexcitation.hh"
+#include "include/NucDeExEventInfo.hh"
 
 int main(int argc, char* argv[]){
   if(argc<=5){

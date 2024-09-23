@@ -9,10 +9,10 @@
 #include <algorithm>
 #include <vector>
 
-#include "NucDeExUtils.hh"
-#include "NucDeExRandom.hh"
-#include "NucDeExParticle.hh"
-#include "NucDeExDeexcitationBase.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExRandom.hh"
+#include "include/NucDeExParticle.hh"
+#include "include/NucDeExDeexcitationBase.hh"
 
 #include <TMath.h>
 

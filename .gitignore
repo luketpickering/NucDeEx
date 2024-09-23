@@ -22,6 +22,8 @@ fig_paper*
 *.a
 *.so
 
+build
+
 #special file
 /output*/*/output*
 /output*/output*
@@ -36,6 +38,5 @@ tr??????
 ecis.invin
 ecisinv.inp
 # for geant4
-/CMakeLists.txt
 /GNUmakefile
 /sources.cmake

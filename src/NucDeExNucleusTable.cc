@@ -7,9 +7,9 @@
 #include <string.h>
 #include <cstdlib>
 
-#include "NucDeExConsts.hh"
-#include "NucDeExUtils.hh"
-#include "NucDeExNucleusTable.hh"
+#include "include/NucDeExConsts.hh"
+#include "include/NucDeExUtils.hh"
+#include "include/NucDeExNucleusTable.hh"
 
 
 ///////////////

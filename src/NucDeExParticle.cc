@@ -1,5 +1,5 @@
-#include "NucDeExParticle.hh"
-#include "NucDeExUtils.hh"
+#include "include/NucDeExParticle.hh"
+#include "include/NucDeExUtils.hh"
 
 #include <fstream>
 #include <sstream>
