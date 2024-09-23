@@ -8,7 +8,7 @@ endif
 CXX=g++ 
 CXXFLAGS= -Wno-deprecated -g -Wall -ggdb3 -fPIC -O2
 
-CXXFLAGS += -I./include
+CXXFLAGS +=-I. -I./include
 ARFLAGS=
 
 ## for cern root
