@@ -1,12 +1,13 @@
-[submodule "macro"]
-	path = macro
-	url = git@github.com:SeishoAbe/NucDeEx_macro.git
-[submodule "output_talys1.95_2022"]
-	path = output_talys1.95_2022
-	url = git@github.com:SeishoAbe/output_talys1.95_2022.git
-[submodule "data"]
-	path = data
-	url = git@github.com:SeishoAbe/NucDeEx_ext_data.git
-[submodule "scripts"]
-	path = scripts
-	url = git@github.com:SeishoAbe/NucDeEx_scripts.git
+#KS: Had to comment it out for CPM to get it. All repo here are private :(
+#[submodule "macro"]
+#	path = macro
+#	url = git@github.com:SeishoAbe/NucDeEx_macro.git
+#[submodule "output_talys1.95_2022"]
+#	path = output_talys1.95_2022
+#	url = git@github.com:SeishoAbe/output_talys1.95_2022.git
+#[submodule "data"]
+#	path = data
+#	url = git@github.com:SeishoAbe/NucDeEx_ext_data.git
+#[submodule "scripts"]
+#	path = scripts
+#	url = git@github.com:SeishoAbe/NucDeEx_scripts.git
